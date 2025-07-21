@@ -73,9 +73,6 @@ Things I do and/or doing in this vast sea of tech
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=niffoxic&show_icons=true&theme=tokyonight" />
     </td>
-    <td align="right">
-      <img src="https://streak-stats.demolab.com?user=niffoxic&theme=dark&hide_border=true" />
-    </td>
   </tr>
 </table>
 
