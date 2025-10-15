@@ -4,20 +4,25 @@
       <img src="https://media1.tenor.com/m/OvqEKxnx_9QAAAAd/shanks-one-piece.gif" width="250" />
     </td>
     <td valign="top" width="50%">
-      <h3 align="center"> Hello, I'm Niffoxic</h3>
-      <p align="center"><i>— A Developer —</i></p>
+      <h3 align="center">Hello, I'm Niffoxic</h3>
+      <p align="center"><i>— Developer —</i></p>
       <hr/>
       <pre>
-Things I do and/or doing in this vast sea of tech
+Things I do and/or currently working on
 =======================================
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk5c3AxdzEzcGdjam94d2lqZnI3ZDl5bzY0bm9kMnI2dGp0bzJ4byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KKKVerzrhjRrClNKt/giphy.gif" width="30" /> Game Engine Development - I love building engines from scratch, because...
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk5c3AxdzEzcGdjam94d2lqZnI3ZDl5bzY0bm9kMnI2dGp0bzJ4byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lzrICyhNZkSCvNNKyP/giphy.gif" width="30" /> Graphics Programming
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNnbnZra3NoZWN4c3k4bmFzM2FoMjY4azhncmM3NTlmMWtzZWR2cWZkcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BqJ5bH6mAIyLu/giphy.gif" width="30" /> AI / NLP
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlwcGNnMXN3eXhqbGx4bGsyYjQ0bW1mcGoydG9kZWc3eGdjdTBqbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="30" /> Algorithmic Problem Solving
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhxemFhZXhjd3lhdHd4NHBwZ2N1bHdheGNidWtvNTJ4am9vdTN6byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hqU2KkjW5bE2v2Z7Qv/giphy.gif" width="30" /> Creating CG Applications
       </pre>
     </td>
   </tr>
 </table>
+
 
 ### Dev Tools
 
