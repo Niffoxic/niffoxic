@@ -14,12 +14,6 @@ Things I do and/or doing in this vast sea of tech
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk5c3AxdzEzcGdjam94d2lqZnI3ZDl5bzY0bm9kMnI2dGp0bzJ4byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KKKVerzrhjRrClNKt/giphy.gif" width="30" /> Game Engine Development - I love building engines from scratch, because...
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk5c3AxdzEzcGdjam94d2lqZnI3ZDl5bzY0bm9kMnI2dGp0bzJ4byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lzrICyhNZkSCvNNKyP/giphy.gif" width="30" /> Graphics Programming
-    From compute shaders to PBR and real-time ray tracing — 
-    I'm really bad at it XD.
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk5c3AxdzEzcGdjam94d2lqZnI3ZDl5bzY0bm9kMnI2dGp0bzJ4byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ecBxe2IXn8xjqLnbT3/giphy.gif" width="30" /> Neural Rendering
-    Still learning this stuff. I know AI,
-    but neural rendering is kinda new to me.
       </pre>
     </td>
   </tr>
