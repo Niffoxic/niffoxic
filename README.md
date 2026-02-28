@@ -39,7 +39,6 @@ Things I do and/or currently working on
 
 <p align="left">
   <img src="https://img.shields.io/badge/DirectX-20232A?style=for-the-badge&logo=directx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
   <img src="https://img.shields.io/badge/PhysX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/CEF-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
